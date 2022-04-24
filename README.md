@@ -11,8 +11,11 @@ sudo apt-get upgrade -y
 ```
 sudo apt-get install ubuntu-desktop -y
 ```
-```
+
 Nomachine download (Get link from inspect and wget <link>)
+```
+wget https://download.nomachine.com/download/7.9/Linux/nomachine_7.9.2_1_amd64.deb;
+
 ```
 ```
 sudo dpkg -i nomachine_7.9.2_1_amd64.deb
